@@ -1,6 +1,7 @@
-def print(n):
+def prints(n):
     if(n<=0):
         return
     print('codingal')
-    print(n/2)
-    print(n/2)
+    prints(n/2)
+    prints(n/2)
+prints(45)
